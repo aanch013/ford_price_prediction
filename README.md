@@ -4,13 +4,13 @@ In this project, I built a machine learning model to predict the selling prices 
 # Dataset Information
 This dataset includes a variety of attributes that are can be used to analyze the relationship between certain characteristics and car sales. Each row in the dataset represents one vehicle. The attributes are:
 
-year: the manufacturing year of the vehicle
-make: the brand or manufacturer of the vehicle
-model: the specific model of the vehicle
-trim: additional designation for the vehicle model
-body: the vehicle's body type (ex: Sedan, SUV)
-transmission: the type of transmission of the vehicle (ex: automatic)
-vin: vehicle identification number
-state: the state where the vehicle is registered
-condition: vehicle's condition rated on a scale
-odometer: the mileage/ distancce traveled by the vehicle
+1. year: the manufacturing year of the vehicle
+2. make: the brand or manufacturer of the vehicle
+3. model: the specific model of the vehicle
+4. trim: additional designation for the vehicle model
+5. body: the vehicle's body type (ex: Sedan, SUV)
+6. transmission: the type of transmission of the vehicle (ex: automatic)
+7. vin: vehicle identification number
+8. state: the state where the vehicle is registered
+9. condition: vehicle's condition rated on a scale
+10. odometer: the mileage/ distancce traveled by the vehicle
